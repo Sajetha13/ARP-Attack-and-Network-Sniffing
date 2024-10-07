@@ -1,29 +1,55 @@
 # ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
+<br>
 
 # AIM:
 
+<br>
+
 To explore network sniffing and ARP Attacks
+
+<br>
 
 ## STEPS:
 
+<br>
+
 ### Step 1:
+
+<br>
 
 Install kali linux either in partition or virtual box or in live mode
 
+<br>
+
 ### Step 2:
+
+<br>
 
 Investigate on the various categories of tools as follows:
 
+<br>
 
 ### Step 3:
+
+<br>
+
 Open terminal and try execute some kali linux commands
 
+<br>
+
 ## ARP Attacks:  
+
+<br>
+
 ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC address with an IP of a computer already on the LAN. 
 Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
+<br>
+
 ## OUTPUT:
+<br>
+
 
 ![image](https://github.com/user-attachments/assets/44010d6e-1e1b-4aac-8fa4-df6f50eedb67)
 
