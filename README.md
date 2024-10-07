@@ -25,7 +25,8 @@ Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/0502c626-1500-462e-b052-754a539e8ac1)
+![image](https://github.com/user-attachments/assets/44010d6e-1e1b-4aac-8fa4-df6f50eedb67)
+
 
 
 From parrot security issue the command :
